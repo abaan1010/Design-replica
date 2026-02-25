@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Design-replica/static/css/main.e6c13ad2.css",
+    "main.js": "/Design-replica/static/js/main.c4315af9.js",
+    "static/js/453.64f95b25.chunk.js": "/Design-replica/static/js/453.64f95b25.chunk.js",
+    "index.html": "/Design-replica/index.html",
+    "main.e6c13ad2.css.map": "/Design-replica/static/css/main.e6c13ad2.css.map",
+    "main.c4315af9.js.map": "/Design-replica/static/js/main.c4315af9.js.map",
+    "453.64f95b25.chunk.js.map": "/Design-replica/static/js/453.64f95b25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c4315af9.js"
+  ]
+}
